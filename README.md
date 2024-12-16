@@ -114,12 +114,21 @@ Project-Pulse/
 └── README.md              # Project documentation
 ```
 
-## Screenshots
+## Output
 
 ### Dashboard
+
 ![Screenshot 2024-12-16 173143](https://github.com/user-attachments/assets/7015bd96-5f3f-4774-85bd-473f581f4dc8)
 
-### Login Page
+![Screenshot 2024-12-16 173204](https://github.com/user-attachments/assets/c00494f0-7cb6-46b5-8036-8d0f55f35692)
+
+
+### Department
+
+![Screenshot 2024-12-16 173223](https://github.com/user-attachments/assets/5f261a1e-4378-4eea-9cee-5f8f02e290fb)
+
+### Subdepartment of CSE
+
 
 
 
