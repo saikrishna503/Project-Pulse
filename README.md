@@ -129,6 +129,22 @@ Project-Pulse/
 
 ### Subdepartment of CSE
 
+![Screenshot 2024-12-16 173244](https://github.com/user-attachments/assets/f8eb02ec-0b8f-4894-88e0-3262523b659a)
+
+### List of CSE-B Projects
+
+![Screenshot 2024-12-16 174333](https://github.com/user-attachments/assets/2144a35f-2734-4f6a-9729-b3394c14c43e)
+
+### Project Details of Team CSEB002
+
+![Screenshot 2024-12-16 174414](https://github.com/user-attachments/assets/b9574e46-c725-4650-891a-80b42786c1e8)
+
+### Dynamically edit Project Details of Team CSEB002
+
+![Screenshot 2024-12-16 174444](https://github.com/user-attachments/assets/69ca2741-1d50-4c00-9ad4-68ce4706ddc8)
+
+![Screenshot 2024-12-16 174504](https://github.com/user-attachments/assets/8fc0c6a2-f54b-49cd-9596-d1bac96ba6d5)
+
 
 
 
