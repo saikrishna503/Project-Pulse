@@ -1,0 +1,37 @@
+[
+    { "teamNo": "CSMA001", "projectTitle": "Blockchain-Based Land Registry", "department": "CSMA" },
+    { "teamNo": "CSMA002", "projectTitle": "AI-Powered Risk Management System", "department": "CSMA" },
+    { "teamNo": "CSMA003", "projectTitle": "AI-Based Supply Chain Optimization", "department": "CSMA" },
+    { "teamNo": "CSMA004", "projectTitle": "Real-Time Traffic Analytics", "department": "CSMA" },
+    { "teamNo": "CSMA005", "projectTitle": "Predictive Healthcare Analytics", "department": "CSMA" },
+    { "teamNo": "CSMA006", "projectTitle": "AI-Driven Fraud Detection System", "department": "CSMA" },
+    { "teamNo": "CSMA007", "projectTitle": "Cloud-Based Inventory Management", "department": "CSMA" },
+    { "teamNo": "CSMA008", "projectTitle": "AI-Powered Project Planning Tool", "department": "CSMA" },
+    { "teamNo": "CSMA009", "projectTitle": "Remote Device Monitoring System", "department": "CSMA" },
+    { "teamNo": "CSMA010", "projectTitle": "AI-Based HR Management Tool", "department": "CSMA" },
+
+    { "teamNo": "CSMB001", "projectTitle": "AI-Powered Social Media Manager", "department": "CSMB" },
+    { "teamNo": "CSMB002", "projectTitle": "Automated Smart City Monitoring", "department": "CSMB" },
+    { "teamNo": "CSMB003", "projectTitle": "Blockchain-Enabled Contract Management", "department": "CSMB" },
+    { "teamNo": "CSMB004", "projectTitle": "AI-Based Disease Prediction", "department": "CSMB" },
+    { "teamNo": "CSMB005", "projectTitle": "E-Learning Assessment System", "department": "CSMB" },
+    { "teamNo": "CSMB006", "projectTitle": "Cloud-Based Data Storage", "department": "CSMB" },
+    { "teamNo": "CSMB007", "projectTitle": "AI-Powered Customer Analytics", "department": "CSMB" },
+    { "teamNo": "CSMB008", "projectTitle": "IoT-Based Waste Management System", "department": "CSMB" },
+    { "teamNo": "CSMB009", "projectTitle": "AI-Based Stock Market Prediction", "department": "CSMB" },
+    { "teamNo": "CSMB010", "projectTitle": "Real-Time Logistics Management", "department": "CSMB" },
+
+    
+    { "teamNo": "CSMC001", "projectTitle": "AI-Based Speech Recognition Tool", "department": "CSMC" },
+    { "teamNo": "CSMC002", "projectTitle": "AI-Driven Financial Analytics", "department": "CSMC" },
+    { "teamNo": "CSMC003", "projectTitle": "Smart Retail Management System", "department": "CSMC" },
+    { "teamNo": "CSMC004", "projectTitle": "AI-Powered Customer Service", "department": "CSMC" },
+    { "teamNo": "CSMC005", "projectTitle": "Cloud-Based HR Portal", "department": "CSMC" },
+    { "teamNo": "CSMC006", "projectTitle": "AI-Based Driver Safety System", "department": "CSMC" },
+    { "teamNo": "CSMC007", "projectTitle": "Blockchain-Enabled Supply Chain Tracking", "department": "CSMC" },
+    { "teamNo": "CSMC008", "projectTitle": "IoT-Based Smart Building System", "department": "CSMC" },
+    { "teamNo": "CSMC009", "projectTitle": "AI-Based Personal Healthcare App", "department": "CSMC" },
+    { "teamNo": "CSMC010", "projectTitle": "AI-Powered E-Commerce Analytics", "department": "CSMC" }
+    
+    
+]

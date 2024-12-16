@@ -1,0 +1,93 @@
+[
+    {
+      "teamNo": "CSDA001",
+      "projectTitle": "CSDA Project 1",
+      "projectAbstract": "Abstract for CSDA Project 1.",
+      "teamLeader": { "name": "Mason Carter", "rollNo": "501" },
+      "teamMembers": [{ "name": "Olivia", "rollNo": "502" }, { "name": "James", "rollNo": "503" }],
+      "guideName": "Bailey",
+      "projectProgress": 80
+    },
+    {
+      "teamNo": "CSDA002",
+      "projectTitle": "CSDA Project 2",
+      "projectAbstract": "Abstract for CSDA Project 2.",
+      "teamLeader": { "name": "Emma Evans", "rollNo": "504" },
+      "teamMembers": [{ "name": "Liam", "rollNo": "505" }, { "name": "Sophia", "rollNo": "506" }],
+      "guideName": "Cook",
+      "projectProgress": 85
+    },
+    {
+      "teamNo": "CSDA003",
+      "projectTitle": "CSDA Project 3",
+      "projectAbstract": "Abstract for CSDA Project 3.",
+      "teamLeader": { "name": "Lucas Johnson", "rollNo": "507" },
+      "teamMembers": [{ "name": "Ella", "rollNo": "508" }, { "name": "James", "rollNo": "509" }],
+      "guideName": "Taylor",
+      "projectProgress": 88
+    },
+    {
+      "teamNo": "CSDA004",
+      "projectTitle": "CSDA Project 4",
+      "projectAbstract": "Abstract for CSDA Project 4.",
+      "teamLeader": { "name": "Emily Roberts", "rollNo": "510" },
+      "teamMembers": [{ "name": "Mia", "rollNo": "511" }, { "name": "David", "rollNo": "512" }],
+      "guideName": "Parker",
+      "projectProgress": 90
+    },
+    {
+      "teamNo": "CSDA005",
+      "projectTitle": "CSDA Project 5",
+      "projectAbstract": "Abstract for CSDA Project 5.",
+      "teamLeader": { "name": "Olivia Harris", "rollNo": "513" },
+      "teamMembers": [{ "name": "Liam", "rollNo": "514" }, { "name": "Sophia", "rollNo": "515" }],
+      "guideName": "Mitchell",
+      "projectProgress": 82
+    },
+    {
+      "teamNo": "CSDA006",
+      "projectTitle": "CSDA Project 6",
+      "projectAbstract": "Abstract for CSDA Project 6.",
+      "teamLeader": { "name": "James Wilson", "rollNo": "516" },
+      "teamMembers": [{ "name": "Mason", "rollNo": "517" }, { "name": "Ella", "rollNo": "518" }],
+      "guideName": "Baker",
+      "projectProgress": 87
+    },
+    {
+      "teamNo": "CSDA007",
+      "projectTitle": "CSDA Project 7",
+      "projectAbstract": "Abstract for CSDA Project 7.",
+      "teamLeader": { "name": "Sophia Walker", "rollNo": "519" },
+      "teamMembers": [{ "name": "Emma", "rollNo": "520" }, { "name": "David", "rollNo": "521" }],
+      "guideName": "King",
+      "projectProgress": 83
+    },
+    {
+      "teamNo": "CSDA008",
+      "projectTitle": "CSDA Project 8",
+      "projectAbstract": "Abstract for CSDA Project 8.",
+      "teamLeader": { "name": "Lucas Turner", "rollNo": "522" },
+      "teamMembers": [{ "name": "Olivia", "rollNo": "523" }, { "name": "James", "rollNo": "524" }],
+      "guideName": "Davis",
+      "projectProgress": 85
+    },
+    {
+      "teamNo": "CSDA009",
+      "projectTitle": "CSDA Project 9",
+      "projectAbstract": "Abstract for CSDA Project 9.",
+      "teamLeader": { "name": "Mason Young", "rollNo": "525" },
+      "teamMembers": [{ "name": "Sophia", "rollNo": "526" }, { "name": "Ella", "rollNo": "527" }],
+      "guideName": "Morris",
+      "projectProgress": 89
+    },
+    {
+      "teamNo": "CSDA010",
+      "projectTitle": "CSDA Project 10",
+      "projectAbstract": "Abstract for CSDA Project 10.",
+      "teamLeader": { "name": "Liam Clark", "rollNo": "528" },
+      "teamMembers": [{ "name": "Olivia", "rollNo": "529" }, { "name": "James", "rollNo": "530" }],
+      "guideName": "Rogers",
+      "projectProgress": 91
+    }
+  ]
+  

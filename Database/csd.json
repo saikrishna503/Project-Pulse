@@ -1,0 +1,36 @@
+[
+    { "teamNo": "CSDA001", "projectTitle": "AI-Powered Job Recommendation System", "department": "CSDA" },
+    { "teamNo": "CSDA002", "projectTitle": "Healthcare Data Analytics", "department": "CSDA" },
+    { "teamNo": "CSDA003", "projectTitle": "Real-Time Chat Application", "department": "CSDA" },
+    { "teamNo": "CSDA004", "projectTitle": "Predictive Maintenance System", "department": "CSDA" },
+    { "teamNo": "CSDA005", "projectTitle": "E-Governance Platform", "department": "CSDA" },
+    { "teamNo": "CSDA006", "projectTitle": "Cloud-Based Video Streaming", "department": "CSDA" },
+    { "teamNo": "CSDA007", "projectTitle": "Online Learning Management System", "department": "CSDA" },
+    { "teamNo": "CSDA008", "projectTitle": "AI-Based Sentiment Analysis", "department": "CSDA" },
+    { "teamNo": "CSDA009", "projectTitle": "Home Automation System", "department": "CSDA" },
+    { "teamNo": "CSDA010", "projectTitle": "Real-Time Traffic Management", "department": "CSDA" },
+
+    { "teamNo": "CSDB001", "projectTitle": "IoT-Based Smart Parking System", "department": "CSDB" },
+    { "teamNo": "CSDB002", "projectTitle": "AI-Powered Content Management", "department": "CSDB" },
+    { "teamNo": "CSDB003", "projectTitle": "Automated Customer Support System", "department": "CSDB" },
+    { "teamNo": "CSDB004", "projectTitle": "Online Voting System", "department": "CSDB" },
+    { "teamNo": "CSDB005", "projectTitle": "Smart Power Grid System", "department": "CSDB" },
+    { "teamNo": "CSDB006", "projectTitle": "E-Commerce Analytics", "department": "CSDB" },
+    { "teamNo": "CSDB007", "projectTitle": "Fitness Tracking Device", "department": "CSDB" },
+    { "teamNo": "CSDB008", "projectTitle": "Remote Classroom Platform", "department": "CSDB" },
+    { "teamNo": "CSDB009", "projectTitle": "AI-Based Text Recognition", "department": "CSDB" },
+    { "teamNo": "CSDB010", "projectTitle": "Cloud-Based ERP System", "department": "CSDB" },
+
+    { "teamNo": "CSDC001", "projectTitle": "AI-Powered Personal Finance Manager", "department": "CSDC" },
+    { "teamNo": "CSDC002", "projectTitle": "Autonomous Drone Delivery System", "department": "CSDC" },
+    { "teamNo": "CSDC003", "projectTitle": "Blockchain-Enabled Voting Platform", "department": "CSDC" },
+    { "teamNo": "CSDC004", "projectTitle": "Real-Time Weather Prediction System", "department": "CSDC" },
+    { "teamNo": "CSDC005", "projectTitle": "IoT-Based Smart Home System", "department": "CSDC" },
+    { "teamNo": "CSDC006", "projectTitle": "AI-Powered Marketing Analytics", "department": "CSDC" },
+    { "teamNo": "CSDC007", "projectTitle": "Predictive Sales Analytics Tool", "department": "CSDC" },
+    { "teamNo": "CSDC008", "projectTitle": "AI-Based Image Recognition System", "department": "CSDC" },
+    { "teamNo": "CSDC009", "projectTitle": "Cybersecurity Threat Detection", "department": "CSDC" },
+    { "teamNo": "CSDC010", "projectTitle": "AI-Based Recruitment Platform", "department": "CSDC" }
+
+
+]

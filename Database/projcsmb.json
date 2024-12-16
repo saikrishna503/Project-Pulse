@@ -1,0 +1,93 @@
+[
+    {
+      "teamNo": "CSMB001",
+      "projectTitle": "CSMB Project 1",
+      "projectAbstract": "Abstract for CSMB Project 1.",
+      "teamLeader": { "name": "Ethan Clark", "rollNo": "301" },
+      "teamMembers": [{ "name": "Sophia", "rollNo": "302" }, { "name": "Liam", "rollNo": "303" }],
+      "guideName": "Adams",
+      "projectProgress": 75
+    },
+    {
+      "teamNo": "CSMB002",
+      "projectTitle": "CSMB Project 2",
+      "projectAbstract": "Abstract for CSMB Project 2.",
+      "teamLeader": { "name": "Ava Scott", "rollNo": "304" },
+      "teamMembers": [{ "name": "Olivia", "rollNo": "305" }, { "name": "Noah", "rollNo": "306" }],
+      "guideName": "Taylor",
+      "projectProgress": 82
+    },
+    {
+      "teamNo": "CSMB003",
+      "projectTitle": "CSMB Project 3",
+      "projectAbstract": "Abstract for CSMB Project 3.",
+      "teamLeader": { "name": "Liam Hill", "rollNo": "307" },
+      "teamMembers": [{ "name": "Ethan", "rollNo": "308" }, { "name": "Sophia", "rollNo": "309" }],
+      "guideName": "Morgan",
+      "projectProgress": 88
+    },
+    {
+      "teamNo": "CSMB004",
+      "projectTitle": "CSMB Project 4",
+      "projectAbstract": "Abstract for CSMB Project 4.",
+      "teamLeader": { "name": "Zoe Green", "rollNo": "310" },
+      "teamMembers": [{ "name": "Olivia", "rollNo": "311" }, { "name": "Noah", "rollNo": "312" }],
+      "guideName": "King",
+      "projectProgress": 90
+    },
+    {
+      "teamNo": "CSMB005",
+      "projectTitle": "CSMB Project 5",
+      "projectAbstract": "Abstract for CSMB Project 5.",
+      "teamLeader": { "name": "Isabella Wood", "rollNo": "313" },
+      "teamMembers": [{ "name": "Sophia", "rollNo": "314" }, { "name": "James", "rollNo": "315" }],
+      "guideName": "Brooks",
+      "projectProgress": 77
+    },
+    {
+      "teamNo": "CSMB006",
+      "projectTitle": "CSMB Project 6",
+      "projectAbstract": "Abstract for CSMB Project 6.",
+      "teamLeader": { "name": "Aiden Brown", "rollNo": "316" },
+      "teamMembers": [{ "name": "Mia", "rollNo": "317" }, { "name": "Liam", "rollNo": "318" }],
+      "guideName": "Harris",
+      "projectProgress": 79
+    },
+    {
+      "teamNo": "CSMB007",
+      "projectTitle": "CSMB Project 7",
+      "projectAbstract": "Abstract for CSMB Project 7.",
+      "teamLeader": { "name": "Emma King", "rollNo": "319" },
+      "teamMembers": [{ "name": "David", "rollNo": "320" }, { "name": "Olivia", "rollNo": "321" }],
+      "guideName": "Lewis",
+      "projectProgress": 85
+    },
+    {
+      "teamNo": "CSMB008",
+      "projectTitle": "CSMB Project 8",
+      "projectAbstract": "Abstract for CSMB Project 8.",
+      "teamLeader": { "name": "Mason Lee", "rollNo": "322" },
+      "teamMembers": [{ "name": "Sophia", "rollNo": "323" }, { "name": "Noah", "rollNo": "324" }],
+      "guideName": "Roberts",
+      "projectProgress": 92
+    },
+    {
+      "teamNo": "CSMB009",
+      "projectTitle": "CSMB Project 9",
+      "projectAbstract": "Abstract for CSMB Project 9.",
+      "teamLeader": { "name": "Isabella Johnson", "rollNo": "325" },
+      "teamMembers": [{ "name": "Liam", "rollNo": "326" }, { "name": "Olivia", "rollNo": "327" }],
+      "guideName": "Martinez",
+      "projectProgress": 80
+    },
+    {
+      "teamNo": "CSMB010",
+      "projectTitle": "CSMB Project 10",
+      "projectAbstract": "Abstract for CSMB Project 10.",
+      "teamLeader": { "name": "Ethan Miller", "rollNo": "328" },
+      "teamMembers": [{ "name": "Sophia", "rollNo": "329" }, { "name": "Mason", "rollNo": "330" }],
+      "guideName": "Wilson",
+      "projectProgress": 86
+    }
+  ]
+  
