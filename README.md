@@ -127,7 +127,7 @@ Project-Pulse/
 
 ![Screenshot 2024-12-16 173223](https://github.com/user-attachments/assets/5f261a1e-4378-4eea-9cee-5f8f02e290fb)
 
-### Subdepartment of CSE
+### Subdepartments of CSE
 
 ![Screenshot 2024-12-16 173244](https://github.com/user-attachments/assets/f8eb02ec-0b8f-4894-88e0-3262523b659a)
 
@@ -148,9 +148,9 @@ Project-Pulse/
 
 
 
-
-
 ## Acknowledgments
 
 - Reference Design inspired by provided images.
 - Agile Methodology followed throughout the development process.
+- Special thanks to **Rishav Chanda** for providing the website template that served as a great starting point for this project.
+
