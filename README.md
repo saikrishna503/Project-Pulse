@@ -1,6 +1,5 @@
 # Project Pulse
 
-![Project Pulse Logo](client/src/Images/Logo.svg)
 
 **Project Pulse** is a web-based solution designed to manage and track the progress of college projects across multiple departments, specifically for educational institutions. This platform provides a centralized dashboard for administrators and real-time collaboration tools for students and team leaders.
 
@@ -118,18 +117,13 @@ Project-Pulse/
 ## Screenshots
 
 ### Dashboard
-![Dashboard](client/src/Images/Header.png)
+![Screenshot 2024-12-16 173143](https://github.com/user-attachments/assets/7015bd96-5f3f-4774-85bd-473f581f4dc8)
 
 ### Login Page
-![Login Page](client/src/Images/AddProject.gif)
 
-## Contributors
 
-- **Sairam** - Frontend and Database Development
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
