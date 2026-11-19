@@ -38,6 +38,8 @@
 - Netlify (Frontend)
 - Heroku (Backend)
 
+For Docker Compose deployment, see [DOCKER.md](DOCKER.md). For a local Kubernetes deployment with Minikube, see [KUBERNETES.md](KUBERNETES.md).
+
 ### Tools
 - Agile methodology for development
 - Canva for wireframes
