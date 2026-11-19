@@ -79,7 +79,6 @@ function Footer() {
         <NavLink href="#home">Home</NavLink>
         <NavLink href="#features">Features</NavLink>
         <NavLink href="#benefits">Benefits</NavLink>
-        <NavLink href="#team">Team</NavLink>
       </Nav>
       <SocialMediaIcons>
         <SocialMediaIcon href="#"><FacebookIcon /></SocialMediaIcon>

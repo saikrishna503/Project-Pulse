@@ -5,6 +5,7 @@ server/node_modules
 client/node_modules
 client/.env
 server/.env
+credentials.txt
 /.pnp
 .pnp.js
 

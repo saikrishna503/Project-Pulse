@@ -28,8 +28,16 @@ const app = express();
 
 /** Middlewares */
 app.use(express.json());
+const allowedOrigins = (process.env.CORS_ORIGIN || 'http://localhost:3000')
+    .split(',')
+    .map((origin) => origin.trim());
 const corsConfig = {
-    origin: 'http://localhost:3000',
+    origin: (origin, callback) => {
+        if (!origin || allowedOrigins.includes(origin)) {
+            return callback(null, true);
+        }
+        return callback(new Error('Origin is not allowed by CORS'));
+    },
     credentials: true,
 };
 app.use(cors(corsConfig));
@@ -40,7 +48,6 @@ const port = process.env.PORT || 4000; // Use PORT from environment variables
 
 const connect = () => {
     mongoose.set('strictQuery', true);
-    console.log('MongoDB URI:', process.env.DB_LOCAL_URI);
     mongoose.connect(process.env.DB_LOCAL_URI)
         .then(() => {
             console.log('MongoDB connected');
