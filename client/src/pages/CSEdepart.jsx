@@ -150,7 +150,7 @@ const CSEDepart = ({ projectTitle }) => {
 
   const fetchTeams = (uppercaseDepartment) => {
     setIsLoading(true);
-    fetch(`http://localhost:4000/api/cse/${uppercaseDepartment}`)
+    fetch(`/api/cse/${uppercaseDepartment}`)
       .then((response) => {
         if (!response.ok) {
           throw new Error("Failed to fetch teams");
@@ -174,7 +174,7 @@ const CSEDepart = ({ projectTitle }) => {
       return;
     }
 
-    fetch(`http://localhost:4000/api/cse/${department.toUpperCase()}/teams`, {
+    fetch(`/api/cse/${department.toUpperCase()}/teams`, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
@@ -200,7 +200,7 @@ const CSEDepart = ({ projectTitle }) => {
     }
 
     fetch(
-      `http://localhost:4000/api/cse/${department.toUpperCase()}/teams/${modalState.selectedTeam.teamNo}`,
+      `/api/cse/${department.toUpperCase()}/teams/${modalState.selectedTeam.teamNo}`,
       { method: "DELETE" }
     )
       .then((response) => {

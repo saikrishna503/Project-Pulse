@@ -147,7 +147,7 @@ const CSMdepart = () => {
   }, [department]);
 
   const fetchTeams = (uppercaseDepartment) => {
-    fetch(`http://localhost:4000/api/csm/${uppercaseDepartment}`)
+    fetch(`/api/csm/${uppercaseDepartment}`)
       .then((response) => response.json())
       .then((data) => {
         setTeams(data);
@@ -157,7 +157,7 @@ const CSMdepart = () => {
   };
 
   const handleAddTeam = () => {
-    fetch(`http://localhost:4000/api/csm/${department.toUpperCase()}/teams`, {
+    fetch(`/api/csm/${department.toUpperCase()}/teams`, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
@@ -182,7 +182,7 @@ const CSMdepart = () => {
       return;
     }
 
-    fetch(`http://localhost:4000/api/csm/${department.toUpperCase()}/teams/${selectedTeam.teamNo}`, {
+    fetch(`/api/csm/${department.toUpperCase()}/teams/${selectedTeam.teamNo}`, {
       method: "DELETE",
     })
       .then((response) => {
@@ -210,7 +210,7 @@ const CSMdepart = () => {
 
   const updateProjectTitle = async (teamNo) => {
     try {
-      const response = await axios.put(`http://localhost:4000/api/csm/updateTitle/${teamNo}`, { // Updated the URL to match CSM context
+      const response = await axios.put(`/api/csm/updateTitle/${teamNo}`, { // Updated the URL to match CSM context
         projectTitle: updatedTitle,
       });
       updateTeam(response.data); // Assuming response.data contains the updated team

@@ -63,7 +63,7 @@ export const deleteTeam = async (id,token) => await API.delete(`/team/${id}`,{ h
 export const updateTeamMembers = async (id, members,token) => await API.patch(`/team/member/${id}`, members,{ headers: { "Authorization" : `Bearer ${token}` }},{ withCredentials: true });
 export const removeTeamMembers = async (id, members,token) => await API.patch(`/team/member/remove/${id}`, members,{ headers: { "Authorization" : `Bearer ${token}` }},{ withCredentials: true });
 
-const BASE_URL = 'http://localhost:4000';
+const BASE_URL = '/api';
 
 export const getCSEProjects = async (token) => {
     return await axios.get(`${BASE_URL}/csea`, {

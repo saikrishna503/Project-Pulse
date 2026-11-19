@@ -142,7 +142,7 @@ const CSDdepart = () => {
   }, [department]);
 
   const fetchTeams = (uppercaseDepartment) => {
-    fetch(`http://localhost:4000/api/csd/${uppercaseDepartment}`)
+    fetch(`/api/csd/${uppercaseDepartment}`)
       .then((response) => response.json())
       .then((data) => {
         setTeams(data);
@@ -152,7 +152,7 @@ const CSDdepart = () => {
   };
 
   const handleAddTeam = () => {
-    fetch(`http://localhost:4000/api/csd/${department.toUpperCase()}/teams`, {
+    fetch(`/api/csd/${department.toUpperCase()}/teams`, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
@@ -177,7 +177,7 @@ const CSDdepart = () => {
       return;
     }
 
-    fetch(`http://localhost:4000/api/csd/${department.toUpperCase()}/teams/${selectedTeam.teamNo}`, {
+    fetch(`/api/csd/${department.toUpperCase()}/teams/${selectedTeam.teamNo}`, {
       method: "DELETE",
     })
       .then((response) => {

@@ -146,7 +146,7 @@ const ProjectDetails = ({ onTitleUpdate }) => {
   ];
 
   useEffect(() => {
-    fetch(`http://localhost:4000/api/csea/project/${teamNo}`)
+    fetch(`/api/csea/project/${teamNo}`)
       .then((response) => response.json())
       .then((data) => {
         setTeam(data);
@@ -216,7 +216,7 @@ const ProjectDetails = ({ onTitleUpdate }) => {
     const updatedFormData = { ...formData };
 
     // Save the data to the server
-    fetch(`http://localhost:4000/api/csea/project/${teamNo}`, {
+    fetch(`/api/csea/project/${teamNo}`, {
       method: "PUT",
       headers: {
         "Content-Type": "application/json",

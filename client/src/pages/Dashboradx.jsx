@@ -86,10 +86,10 @@ const Dashboard = () => {
     const fetchProjectSummary = async () => {
       setLoading(true);
       try {
-        const response = await axios.get('http://localhost:4000/api/projects/summary');
+        const response = await axios.get('/api/projects/summary');
         setSummary(response.data);
 
-        const departmentResponse = await axios.get('http://localhost:4000/api/projects/departmentStatus');
+        const departmentResponse = await axios.get('/api/projects/departmentStatus');
         console.log('Department Status:', departmentResponse.data); // Log for debugging
 
         setDepartmentProjects(departmentResponse.data.departmentStatus); // Ensure correct data structure

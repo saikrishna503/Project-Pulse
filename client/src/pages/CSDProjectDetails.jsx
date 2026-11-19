@@ -85,7 +85,7 @@ const CSDProjectDetails = () => {
   const [formData, setFormData] = useState({});
 
   useEffect(() => {
-    fetch(`http://localhost:4000/api/csd/project/${teamNo}`)
+    fetch(`/api/csd/project/${teamNo}`)
       .then((response) => response.json())
       .then((data) => {
         setTeam(data);
@@ -104,7 +104,7 @@ const CSDProjectDetails = () => {
   };
 
   const handleSave = () => {
-    fetch(`http://localhost:4000/api/csd/project/${teamNo}`, {
+    fetch(`/api/csd/project/${teamNo}`, {
       method: 'PUT',
       headers: {
         'Content-Type': 'application/json',

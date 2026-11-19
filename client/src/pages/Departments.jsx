@@ -166,7 +166,7 @@ const Department = () => {
   // Function to fetch departments
   const fetchDepartments = () => {
     setLoading(true); // Set loading to true when fetching starts
-    fetch('http://localhost:4000/api/department')
+    fetch('/api/department')
       .then((response) => {
         if (!response.ok) throw new Error('Failed to fetch departments');
         return response.json();
@@ -183,7 +183,7 @@ const Department = () => {
 
   // Function to handle adding a new department
   const handleAddDepartment = () => {
-    fetch('http://localhost:4000/api/department/add', {
+    fetch('/api/department/add', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
@@ -212,7 +212,7 @@ const Department = () => {
       return;
     }
 
-    fetch(`http://localhost:4000/api/department/delete/${selectedDepartment._id}`, {
+    fetch(`/api/department/delete/${selectedDepartment._id}`, {
       method: 'DELETE',
     })
       .then((response) => {

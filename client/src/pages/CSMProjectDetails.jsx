@@ -85,7 +85,7 @@ const CSMProjectDetails = () => {
   const [formData, setFormData] = useState({});
 
   useEffect(() => {
-    fetch(`http://localhost:4000/api/csm/project/${teamNo}`)
+    fetch(`/api/csm/project/${teamNo}`)
       .then((response) => response.json())
       .then((data) => {
         setTeam(data);
@@ -104,7 +104,7 @@ const CSMProjectDetails = () => {
   };
 
   const handleSave = () => {
-    fetch(`http://localhost:4000/api/csm/project/${teamNo}`, {
+    fetch(`/api/csm/project/${teamNo}`, {
       method: 'PUT',
       headers: {
         'Content-Type': 'application/json',
